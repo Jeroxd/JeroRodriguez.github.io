@@ -24,7 +24,7 @@ header{
 
 nav{
     background-color: rgb(233, 233, 233);
-    height: 150px;
+    height: 500px;
     border-bottom: 5px rgb(214, 214, 214);
 }
 nav ul li{
@@ -42,7 +42,7 @@ nav ul li{
     width: 69%;
     min-height: 500px;
     background-color: white;
-    padding: 20px;
+    padding: 0px;
 
 }
 
@@ -61,7 +61,7 @@ aside{
     background-color:rgb(197, 197, 197);
     color: black;
     text-align: center;
-    height: 150px;
+    height: 500px;
     line-height: 50px;
 }
 footer{
