@@ -7,7 +7,7 @@ background-color: white;
 font-family: Arial, Helvetica, sans-serif;
 }
 #container{
-    width: 100%;
+    width: 69%;
     margin: 0px auto;
     border: 0px solid black;
 }
@@ -42,7 +42,7 @@ nav ul li{
     width: 69%;
     min-height: 500px;
     background-color: white;
-    padding: 0px;
+    padding: 20px;
 
 }
 
